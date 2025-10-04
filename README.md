@@ -1,5 +1,8 @@
 # 👋 Hi, I’m Rafik Unnisa Begum  
 
+![Profile Views](https://komarev.com/ghpvc/?username=Samina-Rafik&style=flat-square&color=blue)
+
+
 💡 **Data Analyst | Business Analyst | ERP Professional in Training**  
 🎓 Master’s in Enterprise Resource Planning (Victoria University, Sydney)  
 📊 Skilled in **Python, Power BI, Excel, SAP, SPSS, Data Visualization, Machine Learning**  
