@@ -1,9 +1,5 @@
 # 👋 Hi, I’m Rafik Unnisa Begum  
 
-![Profile Views](https://komarev.com/ghpvc/?username=rafikunnisa&style=flat-square&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/rafikunnisa?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/rafikunnisa?style=social)  
-
 💡 **Data Analyst | Business Analyst | ERP Professional in Training**  
 🎓 Master’s in Enterprise Resource Planning (Victoria University, Sydney)  
 📊 Skilled in **Python, Power BI, Excel, SAP, SPSS, Data Visualization, Machine Learning**  
