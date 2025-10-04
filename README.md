@@ -1,4 +1,3 @@
-# rafikunnisa
 # 👋 Hi, I’m Rafik Unnisa Begum  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rafikunnisa&style=flat-square&color=blue)  
@@ -37,24 +36,17 @@
 🔹 **Loan Approval Automation – Prosperity Bank (Machine Learning Project)**  
 - Built and compared ML models (**Naive Bayes, SVM, Random Forest, Deep Learning**) to automate loan qualification.  
 - Focused on fairness, interpretability, and model deployment challenges.  
-[👉 View Code](#) *(Add link once uploaded)*  
+
 
 🔹 **Business Insights from HR, Finance & Retail Data**  
 - Applied regression models, data wrangling, and visualizations (bar charts, scatter plots, box plots).  
 - Identified drivers of employee attrition, profitability, and cross-sales promotion.  
-[👉 View Code](#)  
+
 
 🔹 **Business Research Data Analysis**  
 - Conducted **SPSS/Tableau analysis** and hypothesis testing to deliver evidence-based strategies.  
 - Combined quantitative and qualitative insights for business recommendations.  
-[👉 View Code](#)  
 
----
-
-## 📊 GitHub Stats  
-
-![Rafik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafikunnisa&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafikunnisa&layout=compact&theme=radical)  
 
 ---
 
